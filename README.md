@@ -1,4 +1,1 @@
-# Alura-plus
-Projeto de estudo do curso de HTML e CSS da Alura.
-
-Instrutura: Monica Hillman.
+![](https://raw.githubusercontent.com/pedrofillipes/readme-imagens/main/Front-end-Alura-plus.png?token=GHSAT0AAAAAAB6NOM6FH7QDZKXNYVFT7C7OY7WGKGA)
